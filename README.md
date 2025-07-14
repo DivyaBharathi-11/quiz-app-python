@@ -35,7 +35,7 @@ quiz.py → Main Python script
 README.md → Project info
 
 ✍️ Author
-Lora Indigo
+Divya Bharathi 
 
 📌 Example Output
 yaml
